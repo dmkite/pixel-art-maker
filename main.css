@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+main{
+    margin:20px auto;
+    outline:1px solid black;
+    width:500px;
+    height:500px;
+}
+
+main div{
+    width:5%;
+    padding-bottom:5%;
+    outline:1px solid black;
+    float:left;
+}
+
+b{
+    color:#522;
+}
